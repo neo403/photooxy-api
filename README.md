@@ -24,6 +24,10 @@ npm start or node index.js
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JaeXploit/photooxy-apiv)
 
+#note
+Terimakasih Jaexploit.
+
 ### Thanks To 
 
 [`@AKMAL`](https://wa.me/6281212083401)
+[`@Group`](https://chat.whatsapp.com/KzmixIsPkRQ9Z7IH10klH4)
